@@ -1,9 +1,14 @@
-# Tic Tac Toe in Python
+# Tic Tac Toe (Python)
 
-This is one of the two projects that I have implemented during my online course to learn python. 
+First project that I have implemented during my online course to learn python. 
+Tic-tac-toe (also known as noughts and crosses or Xs and Os) is a paper-and-pencil game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. 
 
 Course Name is "Complete Python Bootcamp: Go from zero to hero in Python"
 
 The link of the course is https://www.udemy.com/complete-python-bootcamp/
 
-Following is youtube URL of video demonstration of code in action - https://youtu.be/rapN-8Huh70
+My Certificate Link is https://www.udemy.com/certificate/UC-VCZJ9H16/
+
+YouTube URL (Video Demonstration) - https://youtu.be/rapN-8Huh70
+
+![alt_text](https://github.com/TDP4you/Tic-Tac-Toe-in-Python/blob/master/Screenshot_tic-tac-toe.png)
